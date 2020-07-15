@@ -8,13 +8,20 @@
 // Khaki Web: C3B299
 
 .navbar {
-background-color: #247BA0 !important;
+  background-color: #247BA0 !important;
 }
 
 .navbar-brand {
-font-size: 3rem;
+  font-size: 3rem;
 }
 
 .jumbotron {
   background-color: #FFFCFF;
+}
+
+.row {
+  // display: block;
+  margin-left: auto;
+  margin-right: auto;
+  // width: 50%;
 }

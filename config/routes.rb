@@ -3,4 +3,5 @@ Rails.application.routes.draw do
   root to: 'pages#home'
   get 'about', to: 'pages#about'
   get 'social_media', to: 'pages#social_media'
+  get 'projects', to: 'pages#projects'
 end
